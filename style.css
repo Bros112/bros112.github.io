@@ -1,0 +1,28 @@
+html {
+    background:#232327
+}
+
+body {
+    font-family:IBM Plex Mono,monospace,sans-serif;
+    color:#ffffff;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong {
+  font-weight:600
+}
+a {
+    text-decoration:none
+}
+a:before {
+    content:"["
+  }
+  a:after {
+    content:"]"
+  }
